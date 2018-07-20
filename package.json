@@ -1,0 +1,38 @@
+{
+  "name": "next-webpack-cli",
+  "version": "1.0.0",
+  "description": "webpack cli",
+  "main": "index.js",
+  "bin": {
+    "next-webpack-cli": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "cli"
+  ],
+  "author": "bear-new",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.16.0",
+    "download-git-repo": "^1.0.2",
+    "handlebars": "^4.0.11",
+    "inquirer": "^6.0.0",
+    "log-symbols": "^2.2.0",
+    "ora": "^2.1.0"
+  },
+  "devDependencies": {
+    "git-clone": "^0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bear-new/next-webpack-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bear-new/next-webpack-cli/issues"
+  },
+  "homepage": "https://github.com/bear-new/next-webpack-cli#readme"
+}
