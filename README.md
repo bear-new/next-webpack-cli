@@ -1,4 +1,6 @@
 ## a webpack scaffolding
 
-#### 1.在项目根目录执行npm i next-webpack-cli -D安装
-#### 2.用脚手架初始化项目next-webpack-cli init react-test安装
+#### 1.Installation scaffolding ```npm i next-webpack-cli -g```
+#### 2.Init Project ```next-webpack-cli init react-test```
+
+#### 3.Unload Project```npm uninstall next-webpack-cli -g```
