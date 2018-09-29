@@ -37,7 +37,6 @@ program.version('1.0.0', '-v, --version')
                 }
 
 				download(gitUrl, name, {clone: true}, err => {
-                    console.log('err', err)
                     if(err){
                         spinner.fail();
                         console.log(symbols.error, chalk.red(err));
