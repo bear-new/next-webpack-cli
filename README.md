@@ -1,12 +1,24 @@
 ## a webpack scaffolding
+A complete CLI for scaffolding webpack projects.
 
 #### 1.Installation scaffolding 
-```js npm i next-webpack-cli -g```
+``` npm i next-webpack-cli -g```
 #### 2.Init Project
-```js next-webpack-cli init react-test```
+``` next-webpack-cli init react-test```
+* step1
+
+![step1](https://github.com/bearnew/picture/blob/master/mardown/2018-12-4%20npm%20next-webpack-cli/step1.png?raw=true)
+
+* step2
+
+![step2](https://github.com/bearnew/picture/blob/master/mardown/2018-12-4%20npm%20next-webpack-cli/step2.png?raw=true)
+
+* step3
+
+![step3](https://github.com/bearnew/picture/blob/master/mardown/2018-12-4%20npm%20next-webpack-cli/step3.png?raw=true)
 
 #### 3.Unload scaffolding
-```js npm uninstall next-webpack-cli -g```
+``` npm uninstall next-webpack-cli -g```
 
 > project link
 https://github.com/bearnew/next-webpack-cli
